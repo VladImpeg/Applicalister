@@ -1,0 +1,41 @@
+PODS:
+  - AudioKit (3.7)
+  - BouncyLayout (1.1.1)
+  - Gallery (1.3.0)
+  - Hue (2.0.1)
+  - Lightbox (1.0.0):
+    - Hue
+  - Magnetic (1.0.7)
+  - PandoraPlayer (1.0):
+    - AudioKit (= 3.7)
+  - PhoneNumberKit (1.3.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 1.3.0)
+    - PhoneNumberKit/UIKit (= 1.3.0)
+  - PhoneNumberKit/PhoneNumberKitCore (1.3.0)
+  - PhoneNumberKit/UIKit (1.3.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - TextFieldEffects (1.3.3)
+
+DEPENDENCIES:
+  - BouncyLayout
+  - Gallery
+  - Lightbox
+  - Magnetic
+  - PandoraPlayer
+  - PhoneNumberKit (~> 1.3)
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  AudioKit: 73c43705575e483623bf3cf306f823a8677aebdd
+  BouncyLayout: 417543c30ff30bedb094984f50a4972331c44a6e
+  Gallery: 40220b942a34dfc9815ad06bffcd2025827b5e02
+  Hue: 354caec055fdc9d38b5ef33ca2e7224721843baf
+  Lightbox: 13f55a0a840f7945dc5ac87931564e7fe569fca9
+  Magnetic: f74297dd1797b35d9bebf7a768d91cadf71bb1cb
+  PandoraPlayer: 4663b7247210c1cda2a1e34b8af888ef22be1024
+  PhoneNumberKit: 08aaf1968ea41a114327e9223cbb0391d76ae145
+  TextFieldEffects: 8706f53525f1ce51c8921b7af32237caab50c467
+
+PODFILE CHECKSUM: 277012583ecbe94848c8eb3c88de8427c0a97de5
+
+COCOAPODS: 1.3.1

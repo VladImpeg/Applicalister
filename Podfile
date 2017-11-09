@@ -10,7 +10,6 @@ target 'QReader' do
   pod 'Lightbox'
   pod "BouncyLayout"
   pod 'PhoneNumberKit', '~> 1.3'
-  pod "PandoraPlayer"
   # Pods for QReader
 
 end
